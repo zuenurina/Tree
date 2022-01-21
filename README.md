@@ -1,5 +1,7 @@
 # Tree
 
+Apply the tree structure in C++ language. 
+
 newScore() - accept inputs for student ID no and scorun point from user.
 
 insertScore() - link new node to existing tree.
